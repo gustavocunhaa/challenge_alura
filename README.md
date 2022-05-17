@@ -31,4 +31,3 @@ Tasks:
 - Visualizar a distribuição da variável target: Churn;
 - Criar visualizações relevantes em relação ao Churn;
 - Analisar a correlação das variáveis;
-- 
